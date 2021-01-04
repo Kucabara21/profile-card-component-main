@@ -72,7 +72,7 @@ html, body{
     margin: 1.5rem auto
 }
 .stat{
-    flex-basis: 5rem;
+    flex-basis: 6rem;
 }
 .desc{
     font-size: small;
